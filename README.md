@@ -12,6 +12,6 @@ I'm Gerard Pons Recasens, an **Engineering Physics** graduate and **Data Science
 * A **demo** of the full process working can be seen [here](https://www.youtube.com/watch?v=G59jl27JF2A&ab_channel=GesturesAidl).
 
 <div class="row">
-  <img class="pull-left" src="/Images/confusion.png"  width="430">
-  <img class="pull-left" src="/Images/demo_gif.gif"  width="530">
+  <img class="pull-left" src="Images/confusion.png"  width="430">
+  <img class="pull-left" src="Images/demo_gif.gif"  width="530">
 </div>
