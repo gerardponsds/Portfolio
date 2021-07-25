@@ -4,7 +4,7 @@ I'm Gerard Pons Recasens, an **Engineering Physics** graduate and **Data Science
 
 # [PROJECT 1: END-TO-END GESTURE RECOGNITION CONTROL SYSTEM](https://github.com/gesturesAidl/video_processor)
 
-In this project a **Linuox OS** was controlled by the device user's gestures, which were recorded by the webcam, and classified using a Deep Learing model based on a **I3D Inflated network**.
+In this project a **Linuox OS** was controlled by the user's gestures, which were recorded by the webcam and classified using a Deep Learing model based on a **I3D Inflated network**.
 
 * We deployed a **Deep Learning model** to predict the gestures made by the user, using **Transfer Learning** from **state-of-the-art models**.
 * Worked with **large volumes** of data, performed **data cleaning** , **feature engineering** and **data augmentation**.
